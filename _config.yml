@@ -1,0 +1,28 @@
+name: Atlas Group
+favicon: null
+layout_spectrum: 0.9622301738709211
+typography_spectrum: 0.8664884937461466
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.00001196330413222313
+  lightness: 0.23840034450404346
+  saturation: 0.13675922225229442
+  rhythmicContrast: 0.6548865125514567
+purpose: []
